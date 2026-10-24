@@ -1,2 +1,2 @@
 #Fish
-this is repository for my digital logig design project
+this is repository for my digital loging design project
